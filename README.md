@@ -1,5 +1,14 @@
 # vecteezy
 vecteezy Development
+# prompt
+Create a image download website using php, mysql, tailwind css with dark mode support, fontawesome, alpinejs, glightbox.
+home page, Gallery, Categories,Tags, About us
+```php
+$site_url = 'http://localhost/vecteezy';
+$site_url = 'https://vecteezy.org';
+$host = '172.188.89.41';
+$mysqli = new mysqli($host, "videer", "8WF7LLRWHALsFjinvFU3", "videer") or die(mysqli_error($mysqli));
+```
 
 ## table
 ```sql
