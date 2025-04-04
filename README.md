@@ -7,7 +7,7 @@ home page, Gallery, Categories,Tags, About us
 $site_url = 'http://localhost/vecteezy';
 $site_url = 'https://vecteezy.org';
 $host = '172.188.89.41';
-$mysqli = new mysqli($host, "videer", "8WF7LLRWHALsFjinvFU3", "videer") or die(mysqli_error($mysqli));
+$mysqli = new mysqli($host, "vecteezy", "8WF7LLRWHALsFjinvFU3", "vecteezy") or die(mysqli_error($mysqli));
 ```
 
 ## table
